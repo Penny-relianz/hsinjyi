@@ -1,0 +1,9 @@
+export { default as Logo } from "./logo.svg";
+export { default as Fail } from "./fail.svg";
+export { default as Success } from "./success.svg";
+export { default as Partner } from "./partner.svg";
+export { default as Solo } from "./solo.svg";
+export { default as Organization } from "./organization.svg";
+export { default as Stock } from "./stock.svg";
+export { default as Limited } from "./limited.svg";
+export { default as Salute } from "./Salute.svg";
